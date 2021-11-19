@@ -6,7 +6,7 @@ Make sure you have virtualenv install
 
 ```bash
 # Create a python virtual environment
-$ virtualenv venv --python=python3
+$ python3 -m venv venv
 
 # Activate virtual environment
 $ source venv/bin/activate
