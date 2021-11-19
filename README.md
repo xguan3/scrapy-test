@@ -2,7 +2,7 @@
 
 ## How to run?
 
-Make sure you have virtualenv install
+Make sure you have virtualenv installed
 
 ```bash
 # Create a python virtual environment
