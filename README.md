@@ -1,4 +1,4 @@
-# iris-scrapy-test
+# scrapy-test
 
 ## How to run?
 
